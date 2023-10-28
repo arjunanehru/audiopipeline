@@ -1,0 +1,3 @@
+total_files_processed: 976
+avg_transcription_length: 43.88319672131148
+total_token_count: 16300647
