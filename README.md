@@ -4,7 +4,7 @@ This project processes audio files, performs transcription, tokenization, and ge
 ## Prerequisites
 - Python 3.7 or higher
 - AWS Account with appropriate permissions
-- Access to an Apache Airflow environment (optional)
+- Access to an Apache Airflow environment
 
 ## Setup
 1. Install dependencies:
