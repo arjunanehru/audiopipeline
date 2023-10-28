@@ -1,0 +1,11 @@
+{
+    "access_key": "ed7e70132a5305876fb04b02b2f7d0c6",
+    "secret_key": "c27cc4ad1cc6095d4a2aa25051937ba758594f6dd0f5c12f8ada6dd366734af3",
+    "endpoint_url": "https://bdadc4417ecd7714dd7d42a104a276c2.r2.cloudflarestorage.com",
+    "bucket_name": "data-engineer-test",
+    "staging_path": "/tmp/audio_processing",
+    "log_path": "log/metavoice_audio_pipeline.log",
+    "valid_audio_extensions": [".flac", ".mp3", ".wav"],
+    "summary_file": "output/summary.txt",
+    "schema": ["id", "transcription", "token", "file_size", "created_date"]
+}

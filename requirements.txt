@@ -1,0 +1,9 @@
+boto3
+s3fs
+numpy
+pandas
+torch
+pydub
+pyarrow
+apache-airflow
+ffmpeg-python
